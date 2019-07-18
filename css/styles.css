@@ -109,11 +109,11 @@ body {
   left: 33%;
 }
 
-/*.eye:nth-child(2) {
+.eye:nth-child(2) {
   right: 33%;
 }
 
-.mouth {
+/*.mouth {
   background: #000000;
   position: absolute;
   top: 61%;
