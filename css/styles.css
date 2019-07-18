@@ -47,7 +47,7 @@ body {
   border-radius: 0% 0% 60% 60%;
 }
 
-/*.smiley {
+.smiley {
   width: 100px;
   height: 100px;
   background-color: #fff901;
@@ -60,7 +60,8 @@ body {
   animation: updown 5s ease-in-out infinite;
   animation-delay: inherit;
 }
-.smiley:after {
+
+/*.smiley:after {
   content: "";
   width: 76%;
   height: 42px;
