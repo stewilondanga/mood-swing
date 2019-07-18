@@ -88,14 +88,14 @@ body {
   transition: transform 1s ease;
 }
 
-/*.eyes {
+.eyes {
   position: absolute;
   top: 20%;
   height: 15%;
   width: 100%;
 }
 
-.eye {
+/*.eye {
   animation-duration: 2.5s;
   animation-delay: -2.5s;
   animation: blink 5s linear infinite;
