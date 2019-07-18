@@ -164,18 +164,20 @@ body {
   }
 }
 
-/*@keyframes blink {
+@keyframes blink {
+
   0%,
   15%,
   100% {
     transform: scale3d(1, 1, 1);
   }
+
   10% {
     transform: scale3d(1, 0, 1);
   }
 }
 
-
+/*
 .containers {
   width: 520px;
   margin: 20px auto;
