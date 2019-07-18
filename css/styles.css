@@ -61,7 +61,7 @@ body {
   animation-delay: inherit;
 }
 
-/*.smiley:after {
+.smiley:after {
   content: "";
   width: 76%;
   height: 42px;
@@ -74,7 +74,7 @@ body {
   border-radius: 50px 50px 10px 10px;
 }
 
-.eye {
+/*.eye {
   border-radius: 50%;
 }
 
