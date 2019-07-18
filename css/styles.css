@@ -35,7 +35,7 @@ body {
   display: none;
 }
 
-/*.smiley-checkbox:checked + .smiley .face .mouth {
+.smiley-checkbox:checked+.smiley .face .mouth {
   background: transparent;
   border-left: 0px solid;
   border-right: 0px solid;
@@ -47,7 +47,7 @@ body {
   border-radius: 0% 0% 60% 60%;
 }
 
-.smiley {
+/*.smiley {
   width: 100px;
   height: 100px;
   background-color: #fff901;
