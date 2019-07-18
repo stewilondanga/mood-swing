@@ -140,16 +140,19 @@ body {
   animation: shadow-anim 5s ease-in-out infinite;
 }
 
-/*@keyframes shadow-anim {
+@keyframes shadow-anim {
+
   0%,
   100% {
     transform: scale(1, 0.3);
   }
+
   50% {
     transform: scale(0.6, 0.2);
   }
 }
-@keyframes updown {
+
+/*@keyframes updown {
   0%,
   100% {
     transform: translateY(0px);
