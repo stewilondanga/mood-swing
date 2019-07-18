@@ -125,7 +125,7 @@ body {
   transition: transform 0.25s;
 }
 
-/*.shadow {
+.shadow {
   position: absolute;
   left: 30%;
   bottom: -50%;
@@ -140,7 +140,7 @@ body {
   animation: shadow-anim 5s ease-in-out infinite;
 }
 
-@keyframes shadow-anim {
+/*@keyframes shadow-anim {
   0%,
   100% {
     transform: scale(1, 0.3);
