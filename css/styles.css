@@ -113,7 +113,7 @@ body {
   right: 33%;
 }
 
-/*.mouth {
+.mouth {
   background: #000000;
   position: absolute;
   top: 61%;
@@ -125,7 +125,7 @@ body {
   transition: transform 0.25s;
 }
 
-.shadow {
+/*.shadow {
   position: absolute;
   left: 30%;
   bottom: -50%;
