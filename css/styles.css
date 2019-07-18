@@ -152,16 +152,19 @@ body {
   }
 }
 
-/*@keyframes updown {
+@keyframes updown {
+
   0%,
   100% {
     transform: translateY(0px);
   }
+
   50% {
     transform: translateY(20px);
   }
 }
-@keyframes blink {
+
+/*@keyframes blink {
   0%,
   15%,
   100% {
