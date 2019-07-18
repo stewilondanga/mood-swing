@@ -105,10 +105,11 @@ body {
   position: absolute;
 }
 
-/*.eye:nth-child(1) {
+.eye:nth-child(1) {
   left: 33%;
 }
-.eye:nth-child(2) {
+
+/*.eye:nth-child(2) {
   right: 33%;
 }
 
