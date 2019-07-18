@@ -74,11 +74,11 @@ body {
   border-radius: 50px 50px 10px 10px;
 }
 
-/*.eye {
+.eye {
   border-radius: 50%;
 }
 
-.face {
+/*.face {
   position: absolute;
   top: 0;
   left: 0;
