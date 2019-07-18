@@ -26,14 +26,12 @@ body {
   height: 1.5em;
 }
 
-/*
-
 .smiley-label {
   position: relative;
   cursor: pointer;
 }
 
-.smiley-checkbox {
+/*.smiley-checkbox {
   display: none;
 }
 .smiley-checkbox:checked + .smiley .face .mouth {
